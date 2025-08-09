@@ -34,8 +34,12 @@ La tienda identificada presenta: baja facturación, calificaciones inferiores al
 La decisión se basa en evaluación de cinco métricas: facturación total, satisfacción del cliente, eficiencia logística, diversidad de productos y volumen de ventas. Concentrar recursos en tiendas de alto rendimiento optimizará la rentabilidad mientras libera capital para el nuevo emprendimiento del Sr. Juan.
 
 ## Estructura del Proyecto
-- `Datos/tienda_1.csv, tienda_2.csv, tienda_3.csv, tienda_4.csv` - Tabla de las tiendas
 - `AluraStoreLatam_JS.ipynb` - Notebook principal con análisis completo
+- `datos/` - Carpeta con datasets de las 4 tiendas (archivos CSV)
+  - `tienda_1.csv` - Datos de ventas de la tienda 1
+  - `tienda_2.csv` - Datos de ventas de la tienda 2  
+  - `tienda_3.csv` - Datos de ventas de la tienda 3
+  - `tienda_4.csv` - Datos de ventas de la tienda 4
 - `README.md` - Documentación del proyecto
 
 ## Autor
